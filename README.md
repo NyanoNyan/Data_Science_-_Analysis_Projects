@@ -1,13 +1,13 @@
 # Data_Analysis_Projects
-1) 911 Calls Capstone Project 
+1) 911 Calls Capstone Project (Jupyter Notebook)
 Analyzing 911 call data from Kaggle. 
 https://www.kaggle.com/mchirico/montcoalert
 
-2) Finance Data Project
+2) Finance Data Project (Jupyter Notebook)
 Exploratory data analysis of stock prices.
 Bank stocks and to check how they progressed throughout the financial crisis till the early 2016.
 
-3) Data Extraction Assignment
+3) Data Extraction Assignment (MATLAB)
 - Learning experiment which contained Two conditions: AnoF [selective attention no feedback] and FnoA [feedback no attention]. These labels describe the nature of the learning
 conditions.
 - Cleaned, ordered and extracted the correct data to prepare the data for analysis. Correlation tests between the conditions.
