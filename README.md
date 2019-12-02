@@ -12,6 +12,6 @@ Exploratory data analysis of stock prices.
 conditions.
 - Cleaned, ordered and extracted the correct data to prepare the data for analysis. Correlation tests between the conditions.
 
-4) Decision Trees and Random Forest Poject
+4) Decision Trees and Random Forest Poject (Jupyter Notebook)
 - Data set is from publically available data from LendingClub.com. This will include loan data.
 
