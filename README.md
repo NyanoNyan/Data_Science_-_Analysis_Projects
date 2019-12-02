@@ -1,4 +1,4 @@
-# Data_Science_Projects
+# Data_Analysis_Projects
 1) 911 Calls Capstone Project 
 Analyzing 911 call data from Kaggle. 
 https://www.kaggle.com/mchirico/montcoalert
@@ -9,3 +9,4 @@ Bank stocks and to check how they progressed throughout the financial crisis til
 
 3) Data Extraction Assignment
 
+# 
