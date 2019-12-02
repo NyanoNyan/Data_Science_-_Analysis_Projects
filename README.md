@@ -11,4 +11,4 @@ Bank stocks and to check how they progressed throughout the financial crisis til
 Learning experiment
 Two conditions: AnoF [selective attention no feedback] and FnoA [feedback no attention]. These labels describe the nature of the learning
 conditions.
-Cleaned, ordered and extracted the correct data to prepare for analysis for correlation tests between the conditions.
+- Cleaned, ordered and extracted the correct data to prepare the data for analysis. Correlation tests between the conditions.
