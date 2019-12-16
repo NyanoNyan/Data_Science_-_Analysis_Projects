@@ -19,3 +19,6 @@ conditions.
 # 4) Decision Trees and Random Forest Project **(Jupyter Notebook)**
 - Data set is from publically available data from LendingClub.com. This will include loan data.
 
+# 4) Data Analysis on Pomodoro data from Forest app **(Jupyter Notebook)**
+- This data set is my own data from https://www.forestapp.cc/.
+- Data from 2016 to 2019 will be used for analysis. (Ongoing project)
