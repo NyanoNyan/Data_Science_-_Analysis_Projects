@@ -5,26 +5,20 @@
 - Data from 2018 will be used for analysis. 
 - Pomodoro technique is a time management method where usually 25 mins are set for work then followed by a short break. The length of the time can be varied. 
 
-<p align="center">
+
 <img src="5) Forest Data Analysis//graph_1.png" width="500" align="center">
- </p>
 
-
-<p align="center">
-<img src="5) Forest Data Analysis//graph_2.png" width="500 " align="center">
-</p>
- 
- <p align="center">
-<img src="5) Forest Data Analysis//graph_3.png" width="500" align="center">
- </p>
- 
  - Graph1:
  
  From the graph, I seem to put more hours during the month of February, March and April. This could be due to increase of assignments during the period. 
- 
+
+<img src="5) Forest Data Analysis//graph_2.png" width="500 " align="center">
+
  - Graph 2:
  
- From the average hour spent per day graph, I seem to work more on the 3rd and the 20th day more compared to other days.
+ From the average hour spent per day graph, I seem to work more on the 3rd and the 20th day more compared to other days. 
+
+<img src="5) Forest Data Analysis//graph_3.png" width="500" align="center">
  
  - Graph 3:
  
