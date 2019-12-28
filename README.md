@@ -9,13 +9,26 @@
 <img src="5) Forest Data Analysis//graph_1.png" width="500" align="center">
  </p>
 
+
 <p align="center">
 <img src="5) Forest Data Analysis//graph_2.png" width="500 " align="center">
- </p>
+</p>
  
  <p align="center">
 <img src="5) Forest Data Analysis//graph_3.png" width="500" align="center">
  </p>
+ 
+ - Graph1:
+ 
+ From the graph, I seem to put more hours during the month of February, March and April. This could be due to increase of assignments during the period. 
+ 
+ - Graph 2:
+ 
+ From the average hour spent per day graph, I seem to work more on the 3rd and the 20th day more compared to other days.
+ 
+ - Graph 3:
+ 
+I seem to start planting trees around 10 am onwards, peaking at 4:00 where I plant the most trees in 2018
 
 # 1) 911 Calls Capstone Project **(Jupyter Notebook)**
 Analyzing 911 call data from Kaggle. 
