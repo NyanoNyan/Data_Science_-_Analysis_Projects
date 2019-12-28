@@ -8,19 +8,19 @@
 
 <img src="5) Forest Data Analysis//graph_1.png" width="500" align="center">
 
- - Graph1:
+ - **Graph 1**:
  
  From the graph, I seem to put more hours during the month of February, March and April. This could be due to increase of assignments during the period. 
 
 <img src="5) Forest Data Analysis//graph_2.png" width="500 " align="center">
 
- - Graph 2:
+ - **Graph 2**:
  
  From the average hour spent per day graph, I seem to work more on the 3rd and the 20th day more compared to other days. 
 
 <img src="5) Forest Data Analysis//graph_3.png" width="500" align="center">
  
- - Graph 3:
+ - **Graph 3**:
  
 I seem to start planting trees around 10 am onwards, peaking at 4:00 where I plant the most trees in 2018
 
