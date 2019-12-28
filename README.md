@@ -5,6 +5,18 @@
 - Data from 2018 will be used for analysis. 
 - Pomodoro technique is a time management method where usually 25 mins are set for work then followed by a short break. The length of the time can be varied. 
 
+<p align="center">
+<img src="5) Forest Data Analysis//graph_1.png" width="400" align="center">
+ </p>
+
+<p align="center">
+<img src="5) Forest Data Analysis//graph_2.png" width="400 " align="center">
+ </p>
+ 
+ <p align="center">
+<img src="5) Forest Data Analysis//graph_3.png" width="400" align="center">
+ </p>
+
 # 1) 911 Calls Capstone Project **(Jupyter Notebook)**
 Analyzing 911 call data from Kaggle. 
 https://www.kaggle.com/mchirico/montcoalert
